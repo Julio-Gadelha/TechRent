@@ -1,4 +1,4 @@
-package Tech.Sistema;
+package Tech;
 
 public interface ManutencaoPreventiva {
 

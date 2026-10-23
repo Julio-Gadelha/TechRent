@@ -1,4 +1,4 @@
-package Tech.Sistema;
+package Tech;
 
 public class ValorDiariaInvalidoException extends RuntimeException {
     public ValorDiariaInvalidoException(String message) {

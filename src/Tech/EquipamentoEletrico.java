@@ -1,4 +1,4 @@
-package Tech.Sistema;
+package Tech;
 
 public class EquipamentoEletrico extends Equipamento implements ManutencaoPreventiva {
     private static final double TAXA_OPERACAO = 15.00;

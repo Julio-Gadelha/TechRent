@@ -1,4 +1,4 @@
-package Tech.Sistema;
+package Tech;
 
 public class EquipamentoManual  extends Equipamento{
 

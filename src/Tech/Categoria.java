@@ -1,4 +1,4 @@
-package Tech.Sistema;
+package Tech;
 
 public enum Categoria {
     LEVE( 0.05),
